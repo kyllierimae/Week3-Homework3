@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body {
+    background-color: antiquewhite;
+}
+
+.pancake-heading {
+    font-family: 'Lobster', cursive;
+    color: red; 
+    font-size: 3rem;
+    text-align: center;
+
+}
+
+.ingredients {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 30px;
+    color:blue;
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.instructions {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.instructions ol{
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid red;
+    color: green;;
+}
+
+.picture {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: red;
+    font-size: 2rem;
+}
